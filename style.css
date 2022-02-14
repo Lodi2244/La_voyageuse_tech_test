@@ -1,0 +1,38 @@
+
+body {
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #9267EE;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.navbar a {
+  color: #DDDDDD;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.container {
+  padding-left: 70px;
+  padding-top: 80px;
+  width: 70%;
+  font-size: 40px;
+}
+
+.text-container {
+  padding-top : 50px;
+  padding-left: 50px;
+  padding-right: 80px;
+}
+
+.container p {
+  font-size: 20px;
+  padding-top:
+}
